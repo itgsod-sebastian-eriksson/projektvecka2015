@@ -9,7 +9,8 @@ randoms.times do
     sexa += 1
   end
 
+  
 end
 
  puts sexa/randoms.to_f
- 
+
